@@ -2,7 +2,10 @@
 3  latihan1
 
 
-halo
+**cara membuat reporsitory**
+
+masukan script di bawah ini
+
 **1**
 ![hasilnya](https://github.com/NurainiSeptiana/latihan1/blob/master/1.JPG)
 **2**
